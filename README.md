@@ -10,7 +10,10 @@ I'm Luis, a software engineer living in Medellin 🇨🇴. I've been professiona
   </a>
 </p>
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdavid0202&layout=compact&theme=transparent"/> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdavid0202&layout=compact&theme=transparent"/>
+</div>
+<br>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luisdavid0202&show_icons=true&theme=transparent&hide=contribs"/>
   <br>
   <a href="https://www.linkedin.com/in/luis-david-lopez-zapata-7377a0153/" target="_blank">
