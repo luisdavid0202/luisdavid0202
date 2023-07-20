@@ -9,12 +9,16 @@ I'm Luis, a software engineer living in Medellin 🇨🇴. I've been professiona
     <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,visualstudio,vscode,python,flask,git,js,html,css,raspberrypi" />
   </a>
 </p>
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisdavid0202&layout=compact&theme=transparent"/>
 </div>
+-->
 <br>
 <div align="center">
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=luisdavid0202&show_icons=true&theme=transparent&hide=contribs"/>
+  -->
   <br>
   <a href="https://www.linkedin.com/in/luis-david-lopez-zapata-7377a0153/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
